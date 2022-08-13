@@ -8,3 +8,5 @@ https://cdn.jsdelivr.net/gh/KingRootwang/OPPO-Enco-Air2-Firmware-Archive/115/tes
 https://cdn.jsdelivr.net/gh/KingRootwang/OPPO-Enco-Air2-Firmware-Archive/128/1_all_128_0.bin
 ### 132
 https://cdn.jsdelivr.net/gh/KingRootwang/OPPO-Enco-Air2-Firmware-Archive/132/test-report-20220606202608573-1_all_132_0.bin
+### 133
+https://cdn.jsdelivr.net/gh/KingRootwang/OPPO-Enco-Air2-Firmware-Archive/133/test-report-20220711102102338-1_all_133_0.bin
